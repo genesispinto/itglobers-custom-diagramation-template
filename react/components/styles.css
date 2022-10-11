@@ -1,0 +1,54 @@
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4 {
+    display: flex;
+    align-items: center;
+}
+
+.grid_2>div:nth-child(1) {
+    order: 2;
+}
+
+.grid_2>div:nth-child(2) {
+    order: 1;
+}
+
+.grid_2>div:nth-child(3) {
+    order: 3;
+}
+
+.grid_3>div:nth-child(1) {
+    order: 1;
+}
+
+.grid_3>div:nth-child(2) {
+    order: 2;
+}
+
+.grid_3>div:nth-child(3) {
+    order: 3;
+}
+
+.grid_4>div:nth-child(1) {
+    order: 3;
+}
+
+.grid_4>div:nth-child(2) {
+    order: 2;
+}
+
+.grid_4>div:nth-child(3) {
+    order: 1;
+}
+
+.containerOne {
+    margin: 10px;
+    width: calc(25% - 20px);
+}
+
+.containerTwo {
+    margin: 10px;
+    width: calc(25% - 20px);
+
+}
