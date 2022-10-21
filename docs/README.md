@@ -2,6 +2,7 @@
 
 Grilla interactiva que cambiara un orden y recibira componentes hijos
 
+![grid-custom](https://user-images.githubusercontent.com/95322919/197269463-ef50eb8b-e9b2-4f3d-adcc-6af75134dcc0.png)
 
 
 ____________
